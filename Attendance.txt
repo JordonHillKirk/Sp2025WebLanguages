@@ -1,15 +1,15 @@
 On this page, update the number, and add your name to the list of names blow. The number should match the number of names.
 
-Number: 5
+Number: 7
 
 Name:
 Jordon Hill
-<<<<<<< HEAD
-Anne Michelle
-=======
+Randy Pospisil
 Elise Hrabik
-Richard Kemereit
->>>>>>> 1ce973117252580967755c3247d534633196faa4
 Anne Michelle
+Richard Kemereit
+Dine Boro
+Anton Yakunin
+
 Mireille Sanwidi
 Mireille Sanwidi
