@@ -4,8 +4,5 @@ Number: 2
 
 Name:
 Jordon Hill
-<<<<<<< HEAD
 Randy Pospisil
-=======
 Elise Hrabik
->>>>>>> d0b898da0797016c7ac6205f4e0c253ea4f5dd47
