@@ -1,6 +1,7 @@
 On this page, update the number, and add your name to the list of names blow. The number should match the number of names.
 
-Number: 1
+Number: 1 , 2
 
 Name:
 Jordon Hill
+Keren Luzindya
