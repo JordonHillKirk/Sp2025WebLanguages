@@ -1,8 +1,13 @@
 On this page, update the number, and add your name to the list of names blow. The number should match the number of names.
 
-Number: 2
+Number: 6
 
 Name:
 Jordon Hill
 Randy Pospisil
 Elise Hrabik
+Anne Michelle
+Elise Hrabik
+Richard Kemereit
+Anne Michelle
+Dine Boro
