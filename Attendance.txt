@@ -4,11 +4,8 @@ Number: 3
 
 Name:
 Jordon Hill
-<<<<<<< HEAD
 Anne Michelle
-=======
 Elise Hrabik
 Richard Kemereit
->>>>>>> 1ce973117252580967755c3247d534633196faa4
 Anne Michelle
 Dine Boro
