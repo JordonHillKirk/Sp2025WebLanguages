@@ -1,5 +1,6 @@
 On this page, update the number, and add your name to the list of names blow. The number should match the number of names.
 
+<<<<<<< Updated upstream
 Number: 3
 
 Name:
@@ -11,3 +12,10 @@ Elise Hrabik
 Richard Kemereit
 >>>>>>> 1ce973117252580967755c3247d534633196faa4
 Anne Michelle
+=======
+Number: 2
+
+Name:
+Jordon Hill
+Sam Simoens
+>>>>>>> Stashed changes
